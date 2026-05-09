@@ -1,0 +1,20 @@
+-Introduce basics of programming (slide deck)
+--What is a coding language
+--How does the computer read code
+--Very brief description of binary (on/off, zeroes and ones, they represent whether electricity is going through or not)
+--Bring up that computers count from 0 (for most languages & python included)
+
+-Teaching (visual demonstration + pictures)
+--How to import libraries
+--What are variables
+--Introduce variable naming standards (snake case for python, but mention other types aswell)
+--simple syntax (keeping variable names consistent)
+--How to control the buzzer (mention that this is done through functions, which will be taught later)
+--How to write comments, and the importance of writing comments
+
+-Introduce the lesson's project
+--What is morse code
+--Make it share a simple "HI" or "HEY" as a demonstration, then let students make their own messages
+--During this lesson, students will also learn that computers are very fast, and will need to add delays between lines
+
+--Final outcome of this lesson will be to make the raspbot share a message through morse code
