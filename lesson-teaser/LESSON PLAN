@@ -1,0 +1,25 @@
+Introduce the Raspbot
+- Show off Raspbot
+- - Briefly mention the connection between robots and humans (senses, thinking, action)
+
+- Explain the uses of robots
+- Explain what makes a robot
+
+How do they work?
+- Doesn't make sense at first, but explain outputs first
+- - Demo lights
+- - Demo Sound
+- - Demo motors
+
+- They sense the world (inputs)
+- - Ultrasonic sensor, infrared
+- - Demo Ultrasonic sensor
+
+How the robot thinks
+- We instruct it outselves
+- It thinks in a basic manner (yes/no questions)
+- - But it thinks really fast
+- We use python
+
+Final result
+- All the tiny pieces connect together to make it fully autonomous
